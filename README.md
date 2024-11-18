@@ -41,3 +41,6 @@ To start the Streamlit app, run the following command:
 bash
 Copy code
 streamlit run main.py
+
+YOU CAN WATCH THE PROJECT DEMONSTRATION VIDEO HERE:
+https://drive.google.com/file/d/1IOwkBIQS9nUzOU5nc95dl7yUIGj_CsbI/view?usp=sharing
