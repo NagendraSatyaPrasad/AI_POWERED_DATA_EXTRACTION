@@ -1,0 +1,7 @@
+openai
+streamlit
+pandas
+requests
+python-dotenv
+gemini
+
